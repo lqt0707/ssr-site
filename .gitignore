@@ -2,6 +2,9 @@
 /dist
 /node_modules
 .config
+client_build
+server_build
+.gitignore
 # Logs
 logs
 *.log
